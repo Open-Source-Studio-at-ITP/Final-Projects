@@ -6,7 +6,7 @@ Contributions can be made through a Open Source Studio fork (using the process o
 
 ## 1: Ideas
 
-The first stage is to generate a list of possible ideas for contributions (or new projects). Don't worry whether it's an idea that you want to do, you might find something that someone else in the class wants to work on. In addition, this is an exercise in evaluating how open source projects communicate their needs and welcome new contributors.
+The first step is to generate a list of possible ideas for contributions (or new projects). Don't worry whether it's an idea that you want to do, you might find something that someone else in the class wants to work on. In addition, this is an exercise in evaluating how open source projects communicate their needs and welcome new contributors.
 
 You can use these lists to search:
 * [Projects listed as "Great for New Contributors"](https://github.com/showcases/great-for-new-contributors)
@@ -16,8 +16,20 @@ You can use these lists to search:
 You might also try these open source projects that are affiliated with ITP in some capacity:
 * [The Processing Foundation](https://github.com/processing/)
 * [ml5.js](https://github.com/ml5js)
+* [Knitting Machine](https://github.com/knittingmachine/)
+* [Open Source Studio](https://github.com/Open-Source-Studio-at-ITP) - the class itself is an open source  project?
 
-Your first assignment is [to file at least one GitHub issue](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/issues) with an idea for a contribution (or new open source project) and to respond to at least two other issues filed with a comment.
+Also, the projects from the "case studies" or guest speakers are possibilities.
+* [Case Studies](https://github.com/Open-Source-Studio-at-ITP/Case-Studies)
+* [p5.js Web Editor](https://github.com/processing/p5.js-web-editor/)
+* Improving accessibility of educational resources at ITP
+* [dev.to](https://github.com/thepracticaldev/dev.to)
+* [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare)
+
+### Assignment - Due Oct 23
+
+1. [File at least one GitHub issue](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/issues) with an idea for a contribution (or new open source project). Try to be specific, point to a feature, issue, or elements of the project's documentation.
+2. Respond to at least two other issues with a comment. Is it realistic? Are you interested?
 
 ## 2: Proposal
 
