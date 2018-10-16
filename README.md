@@ -2,7 +2,7 @@
 
 The Open Source Studio final project, ideally collaborations of 2-3 students, is a contribution to an open source project (or the creation of a new open source project.)
 
-Contributions can be made through a Open Source Studio fork (using the process outlined in the [data assignment](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/data-assignment.md)) or to the  project directly.
+Contributions can be made through a Open-Source-Studio-at-ITP fork (using the process outlined in the [data assignment](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/data-assignment.md)) or to the  project directly.
 
 ## 1: Ideas
 
