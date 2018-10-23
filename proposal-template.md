@@ -1,6 +1,6 @@
 # Final Project Proposal Template
 
-## [Project Title]
+## Project Title
 (your name, info)
 (Is this a contribution to an existing open source project or a the start of a new project?)
 
