@@ -17,4 +17,4 @@
 (List some possible mentors for this project.)
 
 ## More about you
-What are your interests and experience? Have you contributed to other open source projects? If you have an online portfolio, github account, or other relevant documentation of your work, please include links.
+(What are your interests and experience? Have you contributed to other open source projects? If you have an online portfolio, github account, or other relevant documentation of your work, please include links.)
