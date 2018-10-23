@@ -31,8 +31,15 @@ Also, the projects from the "case studies" or guest speakers are possibilities.
 1. [File at least one GitHub issue](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/issues) with an idea for a contribution (or new open source project). Try to be specific, point to a feature, issue, or elements of the project's documentation.
 2. Respond to at least two other issues with a comment. Is it realistic? Are you interested?
 
-## 2: Proposal
+## 2: Proposal - Due Nov 6
+1. Using the [Proposal Template](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/blob/source/proposal-template.md) as a model, write a proposal for your final project. You can create it as a markdown page or use an alternative format like a google doc, blog post, medium post, or publishing platform of your choice.
+2. Pull request a link to your proposal below:
+
+### Proposal links
+* names of collaborators, url
 
 ## 3: Project Development
+* TBA
 
 ## 4: Project Documentation and Presentation
+* TBA
