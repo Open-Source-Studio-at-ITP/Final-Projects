@@ -1,25 +1,19 @@
 # Final Project Proposal Template
 
-## Project Title
-(your name, info)
-(Is this a contribution to an existing open source project or a the start of a new project?)
+## Project Title (and Abstract below)
+*Describe your idea in a short paragraph.*
 
-## Project Abstract
-(Describe your idea in one or two sentences.)
+## Define the problem. 
+*What is the current state of things? What issue do you wish to solve and why? Who is the audience?*
 
-## Project Description
+## Deliverables
+*Propose a clear list of deliverables.*
 
-### Define the problem. 
-(What is the current state of things? What issue do you wish to solve and why?)
-
-### Deliverables
-(Propose a clear list of deliverables.)
-
-### Implementation
-(Describe the technical details about your implementation and development process.)
+## Implementation
+*Describe the technical details about your implementation and development process.*
 
 ## Timeline
-This project will be completed over 5 weeks (Nov 6 - Dec 11). Describe a timeline in detail.
+This project will be completed over 5 weeks (Nov 6 - Dec 11). Describe a timeline in detail below.
 
 ### Week 1
 * Task list
@@ -37,16 +31,15 @@ This project will be completed over 5 weeks (Nov 6 - Dec 11). Describe a timelin
 * Task list
 
 ## Documentation
-(Describe your plan for documentation. Will you keep a blog? Make videos? Some project management tool? Track everything on GitHub as issues?)
+*Describe your plan for documentation. Will you keep a blog? Make videos? Some project management tool? Track everything on GitHub as issues?*
 
 ## Mentoring
-(List some possible mentors for this project.)
+*List some possible mentors for this project. Describe what kinds of help you need (technical, conceptual, outreach, etc.)*
 
 ## More about you
-(What are your interests and experience? Have you contributed to other open source projects? What barriers or concerns have kept you from contributing to free and open source software? If you have an online portfolio, github account, or other relevant documentation of your work, please include links.)
+*What are your interests and experience? Have you contributed to other open source projects? What barriers or concerns have kept you from contributing to free and open source software? If you have an online portfolio, github account, or other relevant documentation of your work, please include links.*
 
 ## References
-
 This proposal template was created with material and advice from:
 * [How to write a proposal for GSoC](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
 * [Processing Foundation GSoC application template](https://docs.google.com/document/d/1UFcWh2IWqhICh4YIFNwtKUaWWXifaBB67rjPxbYzjbE/edit)
