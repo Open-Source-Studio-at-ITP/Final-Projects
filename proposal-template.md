@@ -1,7 +1,10 @@
 # Final Project Proposal Template
 
-## Project Title (and Abstract below)
-*Describe your idea in a short paragraph.*
+## Project Title 
+*Write an abstract -- describe your idea in a short paragraph, 250 words maximum.*
+
+## Team Members
+*Names and urls for collaborators*
 
 ## Define the problem. 
 *What is the current state of things? What issue do you wish to solve and why? Who is the audience?*
@@ -37,7 +40,7 @@ This project will be completed over 5 weeks (Nov 6 - Dec 11). Describe a timelin
 *List some possible mentors for this project. Describe what kinds of help you need (technical, conceptual, outreach, etc.)*
 
 ## More about you
-*What are your interests and experience? Have you contributed to other open source projects? What barriers or concerns have kept you from contributing to free and open source software? If you have an online portfolio, github account, or other relevant documentation of your work, please include links.*
+*What are your interests and experience? Have you contributed to other open source projects? What barriers or concerns have kept you from contributing to free and open source software? If you have an online portfolio, github account, or other relevant documentation of your work, please include links. If the project is a collaboration, a section should be included for each collaborator.*
 
 ## References
 This proposal template was created with material and advice from:
