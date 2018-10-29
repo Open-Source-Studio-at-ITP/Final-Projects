@@ -9,6 +9,9 @@
 ## Define the problem. 
 *What is the current state of things? What issue do you wish to solve and why? Who is the audience?*
 
+## Address Greater Landscape
+*Please address how this project fits into a greater field or tech landscape. Who has done similar work before? How are you building off this, and how? What sets your project apart from your collegues? *
+
 ## Deliverables
 *Propose a clear list of deliverables.*
 
