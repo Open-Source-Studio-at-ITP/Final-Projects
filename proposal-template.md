@@ -10,7 +10,7 @@ _Names and urls for collaborators_
 
 ## Define the problem.
 
-_What is the current state of things? What issue do you wish to solve and why? 3. What need / gap does this project fill? Who is the audience?_
+_What is the current state of things? What issue do you wish to solve and why? What need / gap does this project fill? Who is the audience?_
 
 ## Address Greater Landscape
 
