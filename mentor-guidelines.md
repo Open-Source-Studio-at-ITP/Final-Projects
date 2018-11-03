@@ -12,4 +12,4 @@ Following are the expectations set by the class for mentorship):
 
 The above are our minimum requirements. If possible a weekly check-in about project progress is preferred. In addition, mentors are invited to the final project presentation session on Tuesday, December 11th, but attendance is not at all required.
 
-It is the hope that the relationship establsihed and work developed during the final project period will extend beyond the class, however, there is no requirement that mentors continue their involvement after reviewing the work.
+It is the hope that the relationship established and work developed during the final project period will extend beyond the class, however, there is no requirement that mentors continue their involvement after reviewing the work.
