@@ -7,7 +7,7 @@ Each final project can seek out its own mentor or ask the instructor to facilita
 Following are the expectations set by the class for mentorship):
 
 1. A review of the project proposal with feedback in the form of e-mail, video chat, or IRL meeting.
-2. A review of project progress on or about the week of November 26th in the form of e-mail, video chat, ir IRL meeting.
+2. A review of project progress on or about the week of November 26th in the form of e-mail, video chat, or IRL meeting.
 3. A review of the completed project report (details TBA) with feedback in the form of e-mail, video chat, or IRL meeting.
 
 The above are out minimum requirements, if possible, a weekly check-in about project progress would be additionally helpful. In addition, mentors are invited to the final project presentation session on Tuesday, December 11th, but attendance is not at all required.
