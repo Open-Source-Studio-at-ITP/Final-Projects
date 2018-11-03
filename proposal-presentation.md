@@ -10,7 +10,7 @@ Your presentation should take ~5 minutes and will inevitably be less detailed [t
 2. What is your contribution to the open source project for this final?
 3. Who is the audience for this project?
 4. What are your deliverables?
-5. Do you have an idea for a mentor to review your work?
+5. Do you have an idea for a mentor to review your work? ([See mentor guidelines](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/pull/37)
 6. What help do you need? What other questions do you have?
 7. If a collaboration, how do you plan on working together?
 
