@@ -2,7 +2,7 @@
 
 ## Presentation
 
-Here are some guidelines for your final project proposal presentation. Note that even if you are creating an new open source project (rather than contributing to an existing one), you can frame your proposal as a specific set of goals that is part of a larger initiative.
+Here are some guidelines for your final project proposal presentation. Note that even if you are creating an new open source project (rather than contributing to an existing one), you can frame your proposal as a specific set of goals that are part of a larger initiative.
 
 Your presentation should take ~5 minutes and will invetiably be less detailed [than your proposal](proposal-template.md). Practice what you want to say and show, highlighting only key elements. For example:
 
