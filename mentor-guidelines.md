@@ -4,7 +4,7 @@ Mentorship is a key ingredient for open source contributions and new projects. U
 
 Each final project can seek out its own mentor or ask the instructor to facilitate finding a mentor. Mentors will receive a small honorarium for their participation.
 
-Following are the expectations set by the class for mentorship):
+Following are the expectations set by the class for mentorship:
 
 1. A review of the project proposal with feedback in the form of e-mail, video chat, or IRL meeting.
 2. A review of project progress on or about the week of November 26th in the form of e-mail, video chat, or IRL meeting.
