@@ -7,3 +7,5 @@ Note you will present your proposal for feedback in class on November 6 [accordi
 ## Proposal Links
 
 - name(s) of collaborators, [title of project](url)
+- WenheLi & JinzhongYu(NHibiki), [p5.gif.js](https://github.com/WenheLI/p5.gif/blob/master/proposal.md)
+:
