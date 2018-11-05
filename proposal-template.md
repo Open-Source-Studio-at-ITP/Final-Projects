@@ -52,6 +52,10 @@ This project will be completed over 5 weeks (Nov 6 - Dec 11). Describe a timelin
 
 _Describe your plan for documentation. Will you keep a blog? Make videos? Some project management tool? Track everything on GitHub as issues?_
 
+## Longer-Term Goals
+
+_What do you see as the longer term plan for this project and your project involvement?_
+
 ## Accessibility
 
 _What challenges are there related to your project in terms of Web Content Accessibility Requirements: [see the Accessibility assignment as a reference](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/accessibility-assignment.md#instructions)._
