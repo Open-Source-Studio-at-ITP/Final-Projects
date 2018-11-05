@@ -9,3 +9,4 @@ Note you will present your proposal for feedback in class on November 6 [accordi
 - name(s) of collaborators, [title of project](url)
 - WenheLi & JinzhongYu(NHibiki), [p5.gif.js](https://github.com/WenheLI/p5.gif/blob/master/proposal.md)
 - James Hosken, [Blenduino](https://github.com/jameshosken/Blenduino]
+- Vince Shao, [CodingBridge](https://github.com/vince19972/CodingBridge/blob/master/Proposal.md)
