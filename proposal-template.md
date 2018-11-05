@@ -58,7 +58,7 @@ _What challenges are there related to your project in terms of Web Content Acces
 
 ## Mentoring
 
-_List some possible mentors for this project. Describe what kinds of help you need (technical, conceptual, outreach, etc.)_
+_List some possible mentors for this project. Describe what kinds of help you need (technical, conceptual, outreach, etc.) For more, read [the mentor guidelines](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/blob/source/mentor-guidelines.md)_
 
 ## More about you
 
