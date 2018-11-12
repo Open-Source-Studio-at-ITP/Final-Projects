@@ -51,8 +51,18 @@ Also, the projects from the "case studies" or guest speakers are possibilities.
 
 ## 4: Project Development
 
-- TBA
+### Tuesday, Nov 13 
+The instructor will check in with each project regarding the status of the following.
+1. Proposal submission.
+2. Mentor assignment.
+3. First outreach to / feedback from mentor.
+4. To do list / goals to be completed by Tuesday, Nov 20
+
+### Tuesday, Nov 20 
+
+### Tuesday, Nov 27 
+
+### Tuesday, Dec 4 
 
 ## 5: Project Documentation and Presentation
-
 - TBA
