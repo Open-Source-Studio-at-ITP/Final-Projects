@@ -14,4 +14,5 @@ Note you will present your proposal for feedback in class on November 6 [accordi
 - Camille Weins, [Lexicon](https://github.com/camilleweins/ITP-Open-Source-Studio-Final/blob/master/proposal.md)
 - Luna, [Diasporadical Radio](https://wp.nyu.edu/luna/2018/11/06/final-project-proposal-3/)
 - emma / hadar / nicolás [organizer.network](https://github.com/doodybrains/oss-final-project/blob/master/README.md)
+- Ilana Pecis Bonder & Alice Sun & Lin Zhang, [Dialogflow V2: Unity Plugin](https://github.com/alicehgsun/dialogflow-unity-v2/blob/master/README.md)
 
