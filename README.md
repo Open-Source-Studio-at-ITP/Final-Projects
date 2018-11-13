@@ -65,4 +65,5 @@ The instructor will check in with each project regarding the status of the follo
 ### Tuesday, Dec 4 
 
 ## 5: Project Documentation and Presentation
-- TBA
+
+### Tuesday, Dec 11
