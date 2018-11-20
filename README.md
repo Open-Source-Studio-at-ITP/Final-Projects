@@ -65,9 +65,10 @@ The instructor will check in with each project regarding the status of the follo
 4. To do list / goals to be completed by Tuesday, Nov 27
 
 ### Tuesday, Nov 27 
+* Optional User Testing, Sign-Up TBA
 
 ### Tuesday, Dec 4 
-* No official class meeting, optional help session
+* Optional User Testing, Sign-Up TBA
 
 ## 5: Project Documentation and Presentation
 
