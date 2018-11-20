@@ -59,11 +59,16 @@ The instructor will check in with each project regarding the status of the follo
 4. To do list / goals to be completed by Tuesday, Nov 20
 
 ### Tuesday, Nov 20 
+The instructor will check in with each project regarding the status of the following.
+1. Results of feedback from mentor or outreach to mentor if pending.
+2. User testing workshop on Nov 27 or Dec 4
+4. To do list / goals to be completed by Tuesday, Nov 27
 
 ### Tuesday, Nov 27 
 
 ### Tuesday, Dec 4 
+* No official class meeting, optional help session
 
 ## 5: Project Documentation and Presentation
 
-### Tuesday, Dec 11
+### Tuesday, Dec 11, 11am - 3pm
