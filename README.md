@@ -71,4 +71,4 @@ The instructor will check in with each project regarding the status of the follo
 
 ## 5: Project Documentation and Presentation
 
-### Tuesday, Dec 11, 11am - 3pm
+### Tuesday, Dec 11, 11am - 3pm, Schedule TBA
