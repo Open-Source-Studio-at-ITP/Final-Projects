@@ -65,11 +65,12 @@ The instructor will check in with each project regarding the status of the follo
 4. To do list / goals to be completed by Tuesday, Nov 27
 
 ### Tuesday, Nov 27 
-* Optional User Testing, Sign-Up TBA
+* [User Testing Sign-Ups](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/wiki/User-Testing-Sign-Ups)
 
 ### Tuesday, Dec 4 
-* Optional User Testing, Sign-Up TBA
+* [User Testing Sign-Ups](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/wiki/User-Testing-Sign-Ups)
 
 ## 5: Project Documentation and Presentation
 
-### Tuesday, Dec 11, 11am - 3pm, Schedule TBA
+### Tuesday, Dec 11, 11am - 3pm
+* [Presentation Schedule and Details](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/pull/56)
