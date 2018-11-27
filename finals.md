@@ -7,7 +7,7 @@ Final presentations will be held of Tuesday, December 11 from 11am - 3pm. Sign u
 * 11:40: [PROJECT NAME]
 * 12:00: [PROJECT NAME]
 * 12:20: [PROJECT NAME]
-* 12:40: [PROJECT NAME]
+* 12:40: [p5.gif](https://github.com/WenheLI/p5.gif)
 
 * 1:00: BREAK
 
