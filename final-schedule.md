@@ -1,6 +1,12 @@
 # Final Presentations
 
-Final presentations will be held of Tuesday, December 11 from 11am - 3pm. Sign up for a slot below with your project name. After your presentation you should also link to your final project documentation (guidelines to come).
+Final presentations will be held of Tuesday, December 11 from 11am - 3pm. Sign up for a slot below with your project name. After your presentation you should also link to your final project documentation.
+
+## Important Links
+* [Final Project Documentation Guidelines](final-template.md)
+* [Final Project Presentation and Feedback Guidelines](final-presentation.md)
+
+## Schedule
 
 * 11:00: [PROJECT NAME]
 * 11:20: [PROJECT NAME]

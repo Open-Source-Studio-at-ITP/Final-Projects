@@ -73,4 +73,4 @@ The instructor will check in with each project regarding the status of the follo
 ## 5: Project Documentation and Presentation
 
 ### Tuesday, Dec 11, 11am - 3pm
-* [Presentation Schedule and Details](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/pull/56)
+* [Presentation Schedule and Details](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/final-schedule.md)
