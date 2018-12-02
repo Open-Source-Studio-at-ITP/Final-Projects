@@ -51,8 +51,26 @@ Also, the projects from the "case studies" or guest speakers are possibilities.
 
 ## 4: Project Development
 
-- TBA
+### Tuesday, Nov 13 
+The instructor will check in with each project regarding the status of the following.
+1. Proposal submission.
+2. Mentor assignment.
+3. First outreach to / feedback from mentor.
+4. To do list / goals to be completed by Tuesday, Nov 20
+
+### Tuesday, Nov 20 
+The instructor will check in with each project regarding the status of the following.
+1. Results of feedback from mentor or outreach to mentor if pending.
+2. User testing workshop on Nov 27 or Dec 4
+4. To do list / goals to be completed by Tuesday, Nov 27
+
+### Tuesday, Nov 27 
+* [User Testing Sign-Ups](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/wiki/User-Testing-Sign-Ups)
+
+### Tuesday, Dec 4 
+* [User Testing Sign-Ups](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/wiki/User-Testing-Sign-Ups)
 
 ## 5: Project Documentation and Presentation
 
-- TBA
+### Tuesday, Dec 11, 11am - 3pm
+* [Presentation Schedule and Details](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/pull/56)
