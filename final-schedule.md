@@ -6,6 +6,8 @@ Final presentations will be held of Tuesday, December 11 from 11am - 3pm. Sign u
 * [Final Project Documentation Guidelines](final-template.md)
 * [Final Project Presentation and Feedback Guidelines](final-presentation.md)
 
+_(The above links will 404 until [#62](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/pull/62]) is merged.)_
+
 ## Schedule
 
 * 11:00: [PROJECT NAME]
