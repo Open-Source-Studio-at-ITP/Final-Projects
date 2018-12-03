@@ -10,7 +10,7 @@ _(The above links will 404 until [#62](https://github.com/Open-Source-Studio-at-
 
 ## Schedule
 
-* 11:00: [PROJECT NAME]
+* 11:00: Datavu Presentation
 * 11:20: [PROJECT NAME]
 * 11:40: [PROJECT NAME]
 * 12:00: [PROJECT NAME]
