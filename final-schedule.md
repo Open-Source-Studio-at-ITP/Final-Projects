@@ -21,6 +21,6 @@ _(The above links will 404 until [#62](https://github.com/Open-Source-Studio-at-
 
 * 1:20: [Statable](https://github.com/vince19972/Statable)
 * 1:40: [Programmable-Air](github.com/programmable-air)
-* 2:00: [PROJECT NAME]
+* 2:00: [Diasporadical Radio](https://github.com/lunaog/radio)
 * 2:20: [PROJECT NAME]
 * 2:40: [PROJECT NAME]
