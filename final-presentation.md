@@ -1,8 +1,8 @@
-# Final Project Proposal Presentation
+# Final Project Presentation
 
 ## Presentation
 
-Here are some guidelines for your final project proposal presentation. While your presentation is limited to 10 minutes and will inevitably be less detailed, please use the [final documentation template](final-template.md) to organize your presentation. Practice what you want to say and show, highlighting key elements. 
+Here are some guidelines for your final project presentation. While your presentation is limited to 10 minutes and will inevitably be less detailed, please use the [final documentation template](final-template.md) to organize your presentation. Practice what you want to say and show, highlighting key elements. 
 
 ## Feedback
 
