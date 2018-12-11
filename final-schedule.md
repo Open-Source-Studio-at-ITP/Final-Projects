@@ -17,5 +17,5 @@ Final presentations will be held of Tuesday, December 11 from 11am - 3pm. Sign u
 * 1:20: [Statable](https://github.com/vince19972/Statable)
 * 1:40: [Programmable-Air](github.com/programmable-air)
 * 2:00: [Diasporadical Radio](https://github.com/lunaog/radio)
-* 2:20: Lexicon
+* 2:20: [Lexicon](https://github.com/camilleweins/ITP-Open-Source-Studio-Final/blob/master/final-documentation.md)
 * 2:40: Dialogflow V2: Unity Plugin
