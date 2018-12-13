@@ -6,7 +6,7 @@ Here are some guidelines for your final project presentation. While your present
 
 ## Feedback
 
-We will spend 5-10 minutes critiquing your presentation. This is not a typical critique given the focus on open source. Here are some guidelines (adapted from a guide by Marina Zurkow).
+We will spend 5-10 minutes critiquing your presentation. This is not a typical critique given the focus on open source. Here are some guidelines.
 
 ### For the presenter:
 
