@@ -16,6 +16,6 @@ Final presentations will be held of Tuesday, December 11 from 11am - 3pm. Sign u
 ### 20 minute break
 * 1:20: [Statable](https://github.com/vince19972/Statable)
 * 1:40: [Programmable-Air](github.com/programmable-air)
-* 2:00: [Diasporadical Radio](https://github.com/lunaog/radio)
+* 2:00: [Diasporadical Radio](https://wp.nyu.edu/luna/2018/12/11/oss-final-presentation/), [GitHub repo](https://github.com/lunaog/radio)
 * 2:20: [Lexicon](https://github.com/camilleweins/ITP-Open-Source-Studio-Final/blob/master/final-documentation.md)
 * 2:40: [Dialogflow V2: Unity Plugin](https://alicehgsun.github.io/dialogflow-unity-v2/)
