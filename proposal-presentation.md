@@ -17,7 +17,7 @@ Your presentation should take ~5 minutes and will inevitably be less detailed [t
 
 ## Feedback
 
-We will spend ~5 minutes critiquing your presentation. This is not a typical critique given the focus on open source. Here are some guidelines (adapted from a guide by Marina Zurkow).
+We will spend ~5 minutes critiquing your presentation. This is not a typical critique given the focus on open source. Here are some guidelines.
 
 ### For the presenter:
 
